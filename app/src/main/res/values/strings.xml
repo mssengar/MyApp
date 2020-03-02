@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NYTDemo</string>
+    <string name="article_api">aTve5PkTXY09Impz3enmjMP0A4dQz2iT</string>
+    <string name="ok">OK</string>
+    <string name="check_internet_connection">Please check your internet connection</string>
+    <string name="ny_times_most_popular">NY Times Most Popular</string>
+    <string name="search">Search</string>
+    <string name="details">Detail</string>
+</resources>
